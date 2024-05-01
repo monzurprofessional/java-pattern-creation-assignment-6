@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ece4341a-4d9c-4c1b-8257-39315eaa130a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern-creation-assignment-6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ev1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ev2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw7.java" afterDir="false" />
-    </list>
+    <list default="true" id="ece4341a-4d9c-4c1b-8257-39315eaa130a" name="Changes" comment="all added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "monzurprofessional"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/monzurprofessional/pattern-creation-assignment-6.git",
+    "accountId": "7e1d891f-3f3e-4c4f-a637-50ef5f81a451"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -80,6 +71,19 @@
       <option name="presentableId" value="Default" />
       <updated>1714577642375</updated>
     </task>
+    <task id="LOCAL-০০০০১" summary="all added">
+      <option name="closed" value="true" />
+      <created>1714589463479</created>
+      <option name="number" value="০০০০১" />
+      <option name="presentableId" value="LOCAL-০০০০১" />
+      <option name="project" value="LOCAL" />
+      <updated>1714589463479</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="all added" />
+    <option name="LAST_COMMIT_MESSAGE" value="all added" />
   </component>
 </project>
